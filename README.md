@@ -23,4 +23,4 @@
 - **Email:** [Павел Кузнецов](mailto:pkuznetsov1977@gmail.com)
 - **Telegram:** [@Pavel K](https://t.me/pavel_k_77)
 
-<!-- Добавьте своё фото в папку assets и назовите его profile.jpg. -->
+
